@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: bbf1a1a1eac04eb449e563d961fc2f24
+guid: cd6e7c4ecc14d9f49b1a0e3601f1b055
 ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
@@ -111,6 +111,7 @@ ModelImporter:
     100210: TavolaLunga_025
     100212: TavolaLunga_026
     100214: TavPiano
+    100216: Plane_008
     400000: Cube
     400002: Cube_004
     400004: Cube_011
@@ -219,6 +220,7 @@ ModelImporter:
     400210: TavolaLunga_025
     400212: TavolaLunga_026
     400214: TavPiano
+    400216: Plane_008
     2300000: Cube
     2300002: Cube_004
     2300004: Cube_011
@@ -326,6 +328,7 @@ ModelImporter:
     2300208: TavolaLunga_025
     2300210: TavolaLunga_026
     2300212: TavPiano
+    2300214: Plane_008
     3300000: Cube
     3300002: Cube_004
     3300004: Cube_011
@@ -433,6 +436,7 @@ ModelImporter:
     3300208: TavolaLunga_025
     3300210: TavolaLunga_026
     3300212: TavPiano
+    3300214: Plane_008
     4300000: T5_003
     4300002: T5_002
     4300004: T5_001
@@ -540,6 +544,115 @@ ModelImporter:
     4300208: TavPiano
     4300210: ObPalParSx
     4300212: PaloPareteDx
+    4300214: Plane_008
+    6400000: Cube
+    6400002: Cube_004
+    6400004: Cube_011
+    6400006: Cube_024
+    6400008: Cube_025
+    6400010: Cube_026
+    6400012: Cube_027
+    6400014: ObPalParSx
+    6400016: ObPalParSx_001
+    6400018: PalDxBordo
+    6400020: PalFrontale
+    6400022: PalFrontale_001
+    6400024: PalFrontale_002
+    6400026: PalFrontale_003
+    6400028: PaloBDx
+    6400030: PaloBSx
+    6400032: PaloDx
+    6400034: PaloDx_001
+    6400036: PaloDx_002
+    6400038: PaloDx_003
+    6400040: PaloDx_004
+    6400042: PaloDx_005
+    6400044: PaloDx_006
+    6400046: PaloDx_007
+    6400048: PaloDx_008
+    6400050: PaloDx_009
+    6400052: PaloDx_010
+    6400054: PaloDx_011
+    6400056: PaloDx_012
+    6400058: PaloDx_013
+    6400060: PaloDx_014
+    6400062: PaloDx_015
+    6400064: PaloDx_016
+    6400066: PaloDx_017
+    6400068: PaloDx_018
+    6400070: PaloDx_020
+    6400072: PaloM1
+    6400074: PaloM2
+    6400076: PaloPareteDx
+    6400078: PaloPareteDx_001
+    6400080: PaloPareteDx_002
+    6400082: PaloPiedeDx
+    6400084: PaloPiedeSx
+    6400086: PaloSx
+    6400088: PaloSx_001
+    6400090: PaloSx_002
+    6400092: PaloSx_003
+    6400094: PaloTetto
+    6400096: PaloTetto_001
+    6400098: PaloTetto_002
+    6400100: PaloTetto_003
+    6400102: PaloVDx1
+    6400104: PaloVDx2
+    6400106: PaloVDx3
+    6400108: PaloVSx1
+    6400110: PaloVSx2
+    6400112: PaloVSx3
+    6400114: PalSxBordo
+    6400116: Plane
+    6400118: Plane_001
+    6400120: Plane_002
+    6400122: Plane_003
+    6400124: Plane_004
+    6400126: Plane_005
+    6400128: Plane_006
+    6400130: Plane_007
+    6400132: SepInt
+    6400134: SepOrz1
+    6400136: SepOrz1_001
+    6400138: SepOrz1_002
+    6400140: SepOrz1_003
+    6400142: SepOrz1_004
+    6400144: SepOrz1_005
+    6400146: T1
+    6400148: T2
+    6400150: T3
+    6400152: T4
+    6400154: T4_001
+    6400156: T4_002
+    6400158: T4_003
+    6400160: T5
+    6400162: T5_001
+    6400164: T5_002
+    6400166: T5_003
+    6400168: TavolaLunga_001
+    6400170: TavolaLunga_002
+    6400172: TavolaLunga_003
+    6400174: TavolaLunga_004
+    6400176: TavolaLunga_005
+    6400178: TavolaLunga_008
+    6400180: TavolaLunga_009
+    6400182: TavolaLunga_010
+    6400184: TavolaLunga_011
+    6400186: TavolaLunga_012
+    6400188: TavolaLunga_013
+    6400190: TavolaLunga_014
+    6400192: TavolaLunga_015
+    6400194: TavolaLunga_016
+    6400196: TavolaLunga_017
+    6400198: TavolaLunga_018
+    6400200: TavolaLunga_019
+    6400202: TavolaLunga_020
+    6400204: TavolaLunga_021
+    6400206: TavolaLunga_023
+    6400208: TavolaLunga_025
+    6400210: TavolaLunga_026
+    6400212: TavPiano
+    6400214: Plane_008
     7400000: Default Take
     9500000: //RootNode
   materials:
@@ -550,7 +663,6 @@ ModelImporter:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
     optimizeGameObjects: 0
-    motionNodeName: 
     animationCompression: 1
     animationRotationError: .5
     animationPositionError: .5
@@ -563,7 +675,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0

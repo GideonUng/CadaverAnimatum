@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2fbf85c810710f041bd55ce663d1a227
+guid: b2e986776f3a4dc4fb7f8aa3bd0ad1da
 ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
@@ -100,6 +100,24 @@ ModelImporter:
     4300030: Box895
     4300032: Box894
     4300034: Box893
+    6400000: Box892
+    6400002: Box893
+    6400004: Box894
+    6400006: Box895
+    6400008: Box896
+    6400010: Box897
+    6400012: Box898
+    6400014: Box899
+    6400016: Box900
+    6400018: Box901
+    6400020: Box902
+    6400022: Circle03
+    6400024: Cube
+    6400026: Line642
+    6400028: Line643
+    6400030: Line644
+    6400032: Loft05
+    6400034: Loft06
     7400000: Default Take
     9500000: //RootNode
   materials:
@@ -110,7 +128,6 @@ ModelImporter:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
     optimizeGameObjects: 0
-    motionNodeName: 
     animationCompression: 1
     animationRotationError: .5
     animationPositionError: .5
@@ -121,7 +138,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: .100000001
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1

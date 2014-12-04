@@ -1,33 +1,45 @@
 fileFormatVersion: 2
-guid: 2c855ae2386a3104a846747173cda39f
+guid: 7079eff3bfea0c5428729d6dddb0b90f
 ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
     100000: //RootNode
     100002: cube1_argent-01
     100004: cube1_corps-01
-    100006: cylinder4_default
-    100008: cylinder6_or-mat-01
-    100010: torus5_corps-01
+    100006: cube2_corps-01
+    100008: cylinder3_corps-01
+    100010: cylinder4_default
+    100012: cylinder6_or-mat-01
+    100014: torus5_corps-01
     400000: //RootNode
     400002: cube1_argent-01
     400004: cube1_corps-01
-    400006: cylinder4_default
-    400008: cylinder6_or-mat-01
-    400010: torus5_corps-01
+    400006: cube2_corps-01
+    400008: cylinder3_corps-01
+    400010: cylinder4_default
+    400012: cylinder6_or-mat-01
+    400014: torus5_corps-01
     2300000: cube1_argent-01
     2300002: cube1_corps-01
-    2300004: cylinder4_default
-    2300006: cylinder6_or-mat-01
+    2300004: cube2_corps-01
+    2300006: cylinder3_corps-01
+    2300008: cylinder4_default
+    2300010: cylinder6_or-mat-01
+    2300012: torus5_corps-01
     3300000: cube1_argent-01
     3300002: cube1_corps-01
-    3300004: cylinder4_default
-    3300006: cylinder6_or-mat-01
-    4300000: cube1_argent-01
+    3300004: cube2_corps-01
+    3300006: cylinder3_corps-01
+    3300008: cylinder4_default
+    3300010: cylinder6_or-mat-01
+    3300012: torus5_corps-01
+    4300000: cube2_corps-01
     4300002: cube1_corps-01
     4300004: cylinder4_default
-    4300006: cylinder6_or-mat-01
-    4300008: torus5_corps-01
+    4300006: torus5_corps-01
+    4300008: cylinder3_corps-01
+    4300010: cylinder6_or-mat-01
+    4300012: cube1_argent-01
     7400000: Default Take
     9500000: //RootNode
     13700000: torus5_corps-01
